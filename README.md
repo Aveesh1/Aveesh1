@@ -12,6 +12,7 @@
 - 💬 Ask me about **Solidity , Reactjs , Web3, DEFI**
 
 - 📫 How to reach me **aveeshshetty1@gmail.com**
+-  my previous github - https://github.com/Aveesh52-zz
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1P5h-jVSZtjd23JJigPNkd26fZCoRjmbF/edit?usp=sharing&ouid=115180306227277391773&rtpof=true&sd=true](https://docs.google.com/document/d/1P5h-jVSZtjd23JJigPNkd26fZCoRjmbF/edit?usp=sharing&ouid=115180306227277391773&rtpof=true&sd=true)
 
